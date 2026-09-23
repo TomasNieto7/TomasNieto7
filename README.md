@@ -29,9 +29,5 @@ Ingeniero de Software enfocado en desarrollo web y móvil full stack.
 ### 📊 Mis Estadísticas en GitHub
 
 <p align="center">
-  <!-- Estadísticas generales -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TU_USUARIO&theme=tokyonight" alt="Estadísticas" />
-  <br/>
-  <!-- Lenguajes más utilizados -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TU_USUARIO&theme=tokyonight" alt="Lenguajes" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night&hide_border=true" alt="Actividad" />
 </p>
