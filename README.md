@@ -1,6 +1,35 @@
-- 👋 Hi, I’m @TomasNieto7
+# ¡Hola! Soy Tomas 👋
 
-<!---
-TomasNieto7/TomasNieto7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Ingeniero de Software enfocado en desarrollo web y móvil full stack.
+
+- 🔭 Actualmente desarrollando soluciones full stack y aplicaciones móviles.
+- 🌱 Siempre aprendiendo y profundizando en arquitectura de software.
+- 💬 Hablemos sobre: JavaScript, TypeScript, React, React Native, Python y bases de datos.
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+<p align="left">
+  <!-- Frontend / Mobile -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <br/>
+  <!-- Backend & DB -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+---
+
+### 📊 Mis Estadísticas en GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</p>
