@@ -35,3 +35,7 @@ Ingeniero de Software enfocado en desarrollo web y móvil full stack.
   <!-- Lenguajes más utilizados -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TomasNieto7&theme=tokyonight" alt="Lenguajes" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TomasNieto7&theme=tokyo-night&hide_border=true" alt="Actividad" />
+</p>
