@@ -29,5 +29,7 @@ Ingeniero de Software enfocado en desarrollo web y móvil full stack.
 ### 📊 Mis Estadísticas en GitHub
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night&hide_border=true" alt="Actividad" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TomasNieto7&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasNieto7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
